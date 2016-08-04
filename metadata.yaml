@@ -1,0 +1,31 @@
+_repo: The-Whirlpool_4299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: Harvey Rolfe lives quietly on his modest inheritance at the fringe of
+  London's social and commercial life, but tumultuous events bring Alma Frothingham
+  into his orbit. Their contentment doesn't last long. Harvey's inability to see Alma
+  as merely selfish rather than an emancipated new woman," turns this story into a
+  tale of a marriage poisoned by sexual jealousy and deceit.
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: The Whirlpool
+url: http://www.gutenberg.org/ebooks/4299
